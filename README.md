@@ -1,0 +1,1 @@
+En este trabajo practico utilize tanto CSS como JavaScript para realizar una lista de digimons con sus respectivos nombres, imagenes y descripcion de alguno de ellos. En esta pagina podran elegir desde una lista de nombres cualquiera de ellos y mostrara una imagen con su tipo de nivel. 
